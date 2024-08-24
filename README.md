@@ -1,6 +1,8 @@
 # Projeto Tanque Wi-Fi Esp32-CAM
 
-Adquira o kit completo [clicando aqui](https://www.eletronicaomega.com/tanque-esp32-cam)
+Adquira o kit completo para a montagem deste projeto [clicando aqui](https://www.eletronicaomega.com/tanque-esp32-cam).
+
+[Clique aqui](https://drive.google.com/file/d/14BKwXMzx91W49GD_Sp3F3IYWnr_dxOU5/view) para baixar o E-Book com o passo a posso da montagem.
 
 A Eletrônica Ômega tem a honra de apresentar o seu mais novo projeto: Tanque Wi-Fi com Câmera! Neste projeto você irá controlar por Wi-if um tanque estremamente robusto, construído com 4 motores dc, 
 o que resulta em uma excelente potência para superar obstáculos! E o melhor tudo, o tanque vem equipado com uma câmera para você ver tudo pela tela do seu celular!
