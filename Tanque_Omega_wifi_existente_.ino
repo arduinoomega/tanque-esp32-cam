@@ -87,8 +87,8 @@ const int PWMLuzChannel = 3;
 
 // Configuração da rede Wi-Fi
 
-const char* ssid = "BlueWeb-Mari-2.4";  // Nome da sua rede Wi-Fi
-const char* password = "gabrielarena";  // Senha da sua rede Wi-Fi
+const char* ssid = "ADICIONE-AQUI-O-NOME-DA-SUA-REDE-WIFI";  // Nome da sua rede Wi-Fi
+const char* password = "ADICIOONE-AQUI-A-SENHA-DA-SUA-REDE-WIFI";  // Senha da sua rede Wi-Fi
 
 // Configuração do servidor web assíncrono
 
